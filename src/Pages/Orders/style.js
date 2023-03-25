@@ -31,37 +31,16 @@ export const ContainerItems = styled.div`
     padding: 51px 36px;
 `
 
-export const InputLabel = styled.label`
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 22px;
-    letter-spacing: -0.40799999237060547px;
-    text-align: left;
-`
-
-export const Input = styled.input`
-    height: 58px;
-    border-radius: 14px;
-    background: rgba(255, 255, 255, 0.25);
-    padding: 19px 15px;
-    font-size: 18px;
-    font-weight: 300;
-    line-height: 21px;
-    letter-spacing: 0px;
-    text-align: left;
-    border: none;
-    margin-bottom: 42px;
-`
-
 export const Button = styled.button`
-    height: 68px;
-    background-color: #D93856;
+    height: 68px;    
+    background-color: rgba(255, 255, 255, 0.14);
     font-size: 17px;
     font-weight: 900;
     line-height: 3px;
     letter-spacing: 0px;
     text-align: center;
     margin-top: 76px;
+    border: none;
     cursor: pointer;
 
     &:hover{
@@ -87,6 +66,7 @@ export const Order = styled.li`
     list-style: none;
     display: flex;
     justify-content:space-between;
+    margin-top: 18px;
 `
 
 export const ButtonDelete = styled.button`

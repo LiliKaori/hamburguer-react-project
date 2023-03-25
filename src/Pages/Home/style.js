@@ -62,6 +62,7 @@ export const Button = styled.button`
     letter-spacing: 0px;
     text-align: center;
     margin-top: 76px;
+    border: none;
     cursor: pointer;
 
     &:hover{
@@ -70,35 +71,5 @@ export const Button = styled.button`
 
     &:active{
         opacity: 0.7;
-    }
-`
-
-export const Order = styled.li`
-    height: 101px;
-    border-radius: 14px;
-    background: rgba(255, 255, 255, 0.25);
-    padding: 19px 15px;
-    font-size: 18px;    
-    font-weight: 300;
-    line-height: 21px;
-    letter-spacing: 0px;
-    text-align: left;
-    border: none;
-    list-style: none;
-    display: flex;
-    justify-content:space-between;
-`
-
-export const ButtonDelete = styled.button`
-    background-color: transparent;
-    border: none;
-    cursor: pointer;
-
-    &:hover{
-        opacity: 0.7;        
-    }
-
-    &:active{
-        opacity: 0.5;
     }
 `
