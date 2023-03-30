@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/hamburguer-react-project/static/css/main.073c9b0a.css",
-    "main.js": "/hamburguer-react-project/static/js/main.580ff380.js",
-    "static/js/787.61f0fc3d.chunk.js": "/hamburguer-react-project/static/js/787.61f0fc3d.chunk.js",
-    "static/media/logo.svg": "/hamburguer-react-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.js": "/hamburguer-react-project/static/js/main.2cce4a39.js",
+    "static/media/burger.svg": "/hamburguer-react-project/static/media/burger.60b1a72de0afea8f62bb02559e62beb3.svg",
+    "static/media/burger-pack.svg": "/hamburguer-react-project/static/media/burger-pack.02e63b186fb8f354ba7c566cb0bbb11a.svg",
+    "static/media/trash.svg": "/hamburguer-react-project/static/media/trash.2f57d8c5e63bd4e294c9af076768f523.svg",
     "index.html": "/hamburguer-react-project/index.html",
-    "main.073c9b0a.css.map": "/hamburguer-react-project/static/css/main.073c9b0a.css.map",
-    "main.580ff380.js.map": "/hamburguer-react-project/static/js/main.580ff380.js.map",
-    "787.61f0fc3d.chunk.js.map": "/hamburguer-react-project/static/js/787.61f0fc3d.chunk.js.map"
+    "main.2cce4a39.js.map": "/hamburguer-react-project/static/js/main.2cce4a39.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.580ff380.js"
+    "static/js/main.2cce4a39.js"
   ]
 }
